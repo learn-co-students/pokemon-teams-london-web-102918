@@ -44,11 +44,16 @@ li {
   padding-right: 20px;
 }
 
+img {
+  height: 2rem;
+  width: auto;
+}
+
 button {
   font-size: .65em;
   color: #fff;
   background-color: green;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 button.release {
